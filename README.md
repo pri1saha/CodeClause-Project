@@ -8,6 +8,9 @@ The heart disease prediction model analyzes and categorizes patient data using a
 
 ## Methodology
 
+![image](https://github.com/user-attachments/assets/bb90af9e-20df-4484-837b-4d3314b6bb15)
+
+
 Developing a Random Forest Classifier-based Heart Disease Predictor with a Graphical User Interface (GUI) involves several steps, including data preparation, model training, GUI development, and integration. Here's a detailed methodology:
 
 ### A. Data Collection and Preprocessing
