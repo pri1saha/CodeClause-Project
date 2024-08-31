@@ -58,6 +58,10 @@ The Random Forest Classifier-based Heart Disease Predictor with a Graphical User
 - **Precision and Recall**: The model achieved a precision and recall of 100 percent for both positive (presence of heart disease) and negative (absence of heart disease) classes. This means that the model exhibited an impeccable balance between minimizing false positives and false negatives, thereby ensuring highly reliable predictions.
 - **F1-Score**: The F1-score, which is the harmonic mean of precision and recall, was calculated to be 1.0. This further corroborates the model's proficiency in classifying heart disease cases.
 
+### GUI Design
+![image](https://github.com/user-attachments/assets/751af718-58a0-4c0b-acbf-e9849c0d5b6b)
+
+
 ## Conclusion
 
 The GUI-based heart disease prediction system leverages the power of machine learning to provide a reliable and accessible tool for early detection of heart disease. By integrating an intuitive user interface with a robust predictive model, this project aims to support healthcare providers in making timely and informed decisions, ultimately contributing to improved patient outcomes.
